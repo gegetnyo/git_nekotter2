@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-  root 'tweets#index'aaa
+  root 'tweets#index'
 end
+
+#これでどうや
